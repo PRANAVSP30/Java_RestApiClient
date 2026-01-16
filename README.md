@@ -38,6 +38,14 @@ Display of:
 
   Wind speed
 
+### Tech Stack
+- Java (Core Java)
+- HTTP Networking using HttpURLConnection
+- REST API integration (Open-Meteo Weather API)
+- Manual JSON string parsing
+- Tools: VS Code, Java JDK 25, Git & GitHub
+
+
 ### Output 
 
 <img width="1280" height="241" alt="image" src="https://github.com/user-attachments/assets/261becc9-8c94-406e-bdcd-c888f1720562" />
